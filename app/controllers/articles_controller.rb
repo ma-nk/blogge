@@ -9,6 +9,7 @@ def show
   end
 
 def new
+  @article = Article.new
 end
 
 def edit
@@ -35,8 +36,14 @@ def create
   end
 end
 
-private
+def destroy
+  @article = Article.find(params[:id])
+  @article.destroy
+ 
+  redirect_to articles_path
+end
 
+private
   def article_params
     params.require(:article).permit(:title, :text)
   end
