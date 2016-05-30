@@ -1,0 +1,1227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pu",
+		"selected_items":
+		[
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"cg",
+				"Git: Change Branch"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"cust",
+				"Git: Custom Command"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"lo",
+				"Git: Log All"
+			],
+			[
+				"Pull",
+				"Git: Pull"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gut",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"synru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"custo",
+				"Git: Custom Command"
+			],
+			[
+				"CHANGE",
+				"Git: Change Branch"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"custom",
+				"Git: Custom Command"
+			],
+			[
+				"git chha",
+				"Git: Change Branch"
+			],
+			[
+				"chec",
+				"Git: Change Branch"
+			],
+			[
+				"gitter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"gutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"digg",
+				"Git: Diff Staged Files (Ignore Whitespace)"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"comp",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"",
+				"Git: Blame"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"stash",
+				"Git: Stash Apply"
+			],
+			[
+				"gp",
+				"Git: Push Current Branch"
+			],
+			[
+				"cu",
+				"Git: Custom Command"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"cus",
+				"Git: Custom Command"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Git: Gui"
+			],
+			[
+				"gd",
+				"Git: Diff Tool All"
+			],
+			[
+				"com",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"compa",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"comap",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"gitp",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gq",
+				"Git: Quick Commit"
+			],
+			[
+				"gpul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"deke",
+				"Package Control: Disable Package"
+			],
+			[
+				"ainstall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"gl",
+				"Git: Log Current File"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"git p",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"GQ",
+				"Git: Quick Commit"
+			],
+			[
+				"gc",
+				"Git: Change Branch"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"gf",
+				"Git: Fetch"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git log  ",
+				"Git: Log All"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"ss",
+				"Set Syntax: SQL"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"GP",
+				"Git: Pull"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git stash",
+				"Git: Stash Changes"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packare",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff na",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"gitdif",
+				"Git: Diff All Files"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 311.0,
+		"history":
+		[
+			"glue",
+			"cd ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"date"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mank/utils/practise/blogge"
+	],
+	"file_history":
+	[
+		"/home/mank/work/FRED/pom.xml",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/InvoiceManagementImpl.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/MfipAutoApproveScheduler.java",
+		"/home/mank/work/FRED/db/db_changes.sql",
+		"/home/mank/work/FRED/db/dph_duplicated_check.sh",
+		"/home/mank/work/FRED/db/mhl_dph_cross_duplicated_check.sh",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/CarrierDAO.java",
+		"/home/mank/work/FRED/jboss/server/default/conf/prod/fredmail.properties",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/issues/IssueProxy.java",
+		"/home/mank/work/FRED/db/check_db.sh",
+		"/home/mank/work/FRED/src/main/groovy/fi/MfipAutoApprovalCheckImpl.groovy",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/UserDAO.java",
+		"/home/mank/work/FRED/scripts/cp12_deploy.sh",
+		"/home/mank/work/FRED/scripts/cp10_deploy.sh",
+		"/home/mank/work/FRED/modules/externalInt/src/main/java/com/tessart/fred/extint/rules/AbstractBSConverterRule.java",
+		"/home/mank/work/FRED/scripts/lock_check.sh",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/util/MoneyUtils.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/QuotationImpl.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/QuotationLogic.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/CarrierAgreementDAO.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/AbstractDAO.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/EtofDao.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/OrderDAO.java",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/WEB-INF/classes/AppRes.properties",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/bs/BsDAO.java",
+		"/home/mank/work/FRED/modules/auth/src/main/java/com/tessart/fred/auth/FredServerLoginModule.java",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/pages/PerformanceCheck/result.jsp",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/util/DefaultUtils.java",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/WEB-INF/spring/converter-config.xml",
+		"/home/mank/work/FRED/jboss/server/default/conf/logic.properties",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/FinalInvoice.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/om/InvoiceProxy.java",
+		"/home/mank/work/FRED/jboss/server/default/conf/active_schedulers.cp12.properties",
+		"/home/mank/.m2/settings.xml",
+		"/home/mank/.config/sublime-text-3/Packages/Theme - Hitoshi/Hitoshi.sublime-theme",
+		"/home/mank/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mank/work/FRED/.settings/org.eclipse.jdt.ui.prefs",
+		"/home/mank/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/mank/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings",
+		"/home/mank/.cache/.fr-HFQiNp/README.md",
+		"/home/mank/utils/idea_14_0_2_ultimate/idea-IU-139.659.2/plugins/spy-js/server/node_modules/http-proxy/lib/node-http-proxy.js",
+		"/home/mank/utils/practise/permutations.rb",
+		"/home/mank/utils/practise/permutation_bash_based.rb",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/bc/BcDAO.java",
+		"/home/mank/Documents/bash_cheatsheet",
+		"/home/mank/work/FRED/db/Create.SCAF.sql",
+		"/home/mank/utils/backup_work.sh",
+		"/home/mank/work/FRED/modules/ejb/src/com/tessart/fred/ejb/impl/IssueManagementImpl.java",
+		"/home/mank/work/FRED/modules/web/src/com/tessart/fred/webgui/issues/IssueProxy.java",
+		"/home/mank/work/FRED/modules/web/src/com/tessart/fred/webgui/issues/IssueResolutionAction.java",
+		"/home/mank/Downloads/test archive.txt",
+		"/home/mank/Downloads/destinations20160524001.txt",
+		"/home/mank/utils/practise/number_shuffle.rb",
+		"/home/mank/Downloads/accCostsExport.xls",
+		"/home/mank/Downloads/dests.txt",
+		"/home/mank/WebScarab.properties",
+		"/tmp/mozilla_mank0/PCAreas_C4 UK (CP04).txt",
+		"/home/mank/Documents/FOP_Mank/medoc/accounts",
+		"/home/mank/work/FRED/modules/ejb/src/com/tessart/fred/ejb/dao/IssueDAO.java",
+		"/home/mank/1.txt",
+		"/home/mank/Documents/country_codes_continent.txt",
+		"/home/mank/Documents/1.txt",
+		"/home/mank/work/FRED/modules/common/src/com/tessart/fred/common/objects/Scaf.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/processing/ProcessingQueue.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/ScafDAO.java",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/Scaf.java",
+		"/home/mank/work/FRED/db/Create.Order.sql",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/ca/CALifeCycleApprove.java",
+		"/home/mank/Documents/ruby_cheatsheet.txt",
+		"/home/mank/Test/connector.rb",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/FinalInvoiceProcessing.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/om/EtofSearch.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/om/OMProxy.java",
+		"/home/mank/work/FRED/deploy_prod.sh",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/FiDAO.java",
+		"/home/mank/Downloads/addresses.txt",
+		"/home/mank/work/FRED/db/Create.ISDR.sql",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/pages/Invoice/isd.Close.Reason.jsp",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/ISDSearchBean.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/ReferencesManagementImpl.java",
+		"/home/mank/work/FRED/modules/ear/src/main/resources/ojb_jboss/repository_references.xml",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/ActionReasonCode.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/ISDSearch.java",
+		"/home/mank/Documents/splunk/example_action_sourcetype_split.txt",
+		"/home/mank/Documents/splunk/splunk_cheatsheet",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/AbstractEtof.java",
+		"/home/mank/work/FRED/src/main/groovy/etofprocessing/frv/FrvChargWeightImpl.groovy",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/QResultCost.java",
+		"/home/mank/Documents/splunk_cheatsheet",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/frv/FrvOrderTags.java",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/Item.java",
+		"/usr/backup/backup.log",
+		"/home/mank/work/FRED/src/main/groovy/etofprocessing/dph/DphChargWeightImpl.groovy",
+		"/home/mank/Documents/unix_permission_matrix",
+		"/home/mank/utils/depl.sh",
+		"/home/mank/1",
+		"/home/mank/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/mank/Documents/statuses",
+		"/home/mank/work/FRED/scripts/kiev/create_fred_data_folders.sh",
+		"/home/mank/work/FRED/scripts/kiev/fred_data_to_fred_cp_ops_rsync.sh",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/rm/HUBPerCarrierAction.java",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/ShipperDAO.java",
+		"/home/mank/work/FRED/build_prod.sh",
+		"/home/mank/work/FRED/jboss/server/default/conf/security.properties",
+		"/home/mank/work/FRED/db/bc_duplicated_check.sh",
+		"/home/mank/Downloads/accCostsExport(1).xls",
+		"/home/mank/Downloads/txt.txt",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/WEB-INF/tlds/security.tld",
+		"/home/mank/.cache/.fr-8ZrB3p/Toolkit/xsd/readme.txt",
+		"/home/mank/.cache/.fr-dEKrVR/splunk/README-splunk.txt",
+		"/home/mank/work/FRED/db/dph_daily_check.sh",
+		"/home/mank/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/mank/work/FRED/db/dba/Create.Procedure.sql",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/OrderManagementImpl.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/InvoiceExtraCost.java",
+		"/home/mank/work/FRED/jboss/server/default/conf/fredmail.properties",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/mail/IssueFinalInvoiceApproveLetterMail.java",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/WEB-INF/struts-config.xml",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/InvoiceExtraCostBean.java",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/WEB-INF/spring/scheduler-config.xml",
+		"/home/mank/work/FRED/src/main/groovy/fi/InvoiceSenderEmailsImpl.groovy",
+		"/home/mank/work/FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/IssueManagementImpl.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/IssueMailImpl.java",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/FIApproveImpl.java",
+		"/home/mank/work/FRED/modules/web/src/main/webapp/pages/Order/om.Etof.Match.jsp",
+		"/home/mank/work/FRED/modules/web/src/main/java/com/tessart/fred/webgui/processing/IsdArchivingProcess.java",
+		"/home/mank/work/FRED/testdata/OJB.properties",
+		"/home/mank/work/FRED/modules/common/src/main/java/com/tessart/fred/common/objects/WOFieldsDependenciesBean.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.sh",
+			"*.java, *.groovy",
+			"*.*",
+			"*.jsp",
+			"",
+			"*.java",
+			"*.jsp",
+			"*.java, *.groovy",
+			"*.*",
+			"*.jsp",
+			"*.java",
+			"*.*",
+			"*.xml",
+			"*.*",
+			"*.java",
+			"*.sh",
+			"*.java",
+			"*.groovy",
+			"*.java"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fred.ea",
+			"--",
+			"deploy/prod",
+			"	",
+			"getCPForIssueResolution",
+			"storeIsdFile",
+			"db_changes.sql",
+			"setEtofISDMatchStatusById",
+			"nearestQuantity",
+			"Freightcost",
+			"value=\"Performance check\"",
+			" ",
+			"archives",
+			"archives\n\n\n\n\n\n",
+			"archives",
+			"archive",
+			"transport\\scost",
+			"transport\\s?cost",
+			"transport?cost",
+			"\\\\t",
+			",",
+			"	",
+			"EtofSearch.java:547",
+			"private ActionForward",
+			"private ActionForward search",
+			"param.getPagerOffset() > 1 && (cc.getContent() ==",
+			"if (searchParam.getPagerOffset() > 1 && (cc.getContent() ==",
+			"boolean isApprove = true;\n         try {\n             FinalInvoice invoice;",
+			"15815",
+			"\">",
+			"title=\"",
+			"title=\".*>",
+			"rm",
+			"title=\"KID DRAMA - Red Magic\">\n",
+			"title=\"KID DRAMA - Red Magic\">",
+			"title=",
+			"minlength",
+			"from actionreasoncodes",
+			"actionreasoncodes",
+			"ACTIONREASONCODES",
+			"setDocType",
+			"setCloseReasons",
+			"closeReasons",
+			"ISD closing reason",
+			"table isdocuments",
+			"qResAcc",
+			"qResAcc.getAcStandard()",
+			"qResAcc.getAcStandard().getAcCalcRule()",
+			"qResAcc.getAcStandard().getAcCalcRule().isPercentage()",
+			"^\\d*.?\\d*G",
+			"$\\d*.?\\d*G",
+			"$\\d*.\\d*G",
+			"$\\d*G",
+			"G",
+			"chmod",
+			"ignored.urls=/Admin/NewsManagement.do,/CarrierAgreementManagement/Modify/Acc/Edit.do,CarrierAgreementManagement/NewModify/Acc/Edit.do,/CarrierAgreementManagement/Formula/Edit.do,CarrierAgreementManagement/New/Acc/Edit.do,/InvoiceManagement/Invoice/Info.do",
+			"hubpercarrier",
+			"=",
+			"etofHasIsdItems",
+			"oj",
+			"ojb",
+			"ojd",
+			"InvoiceSenderEmailsImpl",
+			"for invoice: ",
+			"for invoice:.*",
+			"*.for invoice:.*",
+			"findAllSCAFs",
+			"findAllECRs",
+			"FT-13247",
+			"submitCompareCosts",
+			"compare",
+			"event_startMatch",
+			"DEFAULT_EMAIL",
+			"IssueFinalInvoiceApproveLetterMail",
+			"	",
+			"WOFieldsDependenciesBean",
+			"Dependencies",
+			"WOFieldsDependencies",
+			"WOFieldsDependenciesBean",
+			"isd_inv_cost",
+			"ccs_isdr",
+			"enabledShippers",
+			"// $Id$\npackage com.tessart.fred.webgui.schedulers;\n\nimport com.controlpay.common.schedule.FredSchedulable;\nimport com.tessart.fred.common.collections.Pair;\nimport com.tessart.fred.common.conf.ConfUtil;\nimport com.tessart.fred.common.objects.FredShipperBusinessUnit;\nimport com.tessart.fred.webgui.om.InvoiceProxy;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.stereotype.Component;\n\nimport java.util.HashSet;\nimport java.util.Set;\n\n\n@Component\npublic class FIApproveImpl extends FredSchedulable {\n\n    @Autowired\n    private InvoiceProxy invoiceProxy;\n\n    public void onStart() {\n\n        Set<Long> enabledShippers = new HashSet<>();\n        for (Long shipId : FredShipperBusinessUnit.SHIPPER_ID_SHIPPER_CODE.keySet()) {\n            if (\"1\".equals(ConfUtil.getPropertyForShipper(ConfUtil.LOGIC_CATEGORY,\n                    \"fi.approval.enable\", FredShipperBusinessUnit.SHIPPER_ID_SHIPPER_CODE.get(shipId)))) {\n                enabledShippers.add(shipId);\n            }\n        }\n        if (!enabledShippers.isEmpty()) {\n            approveForShippers(enabledShippers);\n        }\n    }\n\n    private void approveForShippers(Set<Long> enabledShippers) {\n        try {\n            Set<Long> fiIds = invoiceProxy.getFinalInvoicesIdFromQueue(enabledShippers);\n            if (!fiIds.isEmpty()) {\n                if (ConfUtil.isSqlLoggingEnabled()) {\n                    for (final Long fid : fiIds) {\n                        log.debug(\"FIApproveImpl id = \" + fid);\n                    }\n                }\n//                invoiceProxy.removeFinalInvoicesIdFromQueue(fiIds);\n                Set<Long> removeOnlyOne = new HashSet<>();\n                for (final Long fid : fiIds) {\n//                    log.debug(\"FIApproveImpl try to approve FI id = \" + fid);\n                    Pair<Boolean, Set<String>> result =  invoiceProxy.approveFinalInvoice(fid, null, true);\n                    if (result != null && !result.getFirst()) {\n//                        log.debug(\"FIApproveImpl FI was not approved id = \" + fid);\n//                        if (result.getSecond() != null) {\n//                            for (String message : result.getSecond()) {\n//                                log.debug(\"Auto invoice details for Id \" + fid + \"is \" + message);\n//                            }\n//                        }\n                    } else if (result != null && result.getFirst()) {\n                        removeOnlyOne.clear();\n                        removeOnlyOne.add(fid);\n                        invoiceProxy.removeFinalInvoicesIdFromQueue(removeOnlyOne);\n                    }\n                }\n            }\n        } catch (Exception e) {\n            log.error(\"FIApproveImpl \" + e);\n        }\n    }\n\n\n}\n",
+			"enabledShippers",
+			"if",
+			"&",
+			"&&",
+			"&",
+			"dir.sap.xml.export.invoice",
+			"fredMhlInt",
+			"fred-scheduler-service.xml",
+			"conf/groovy",
+			"web/webapp",
+			"conf/groovy",
+			"groovy",
+			"conf",
+			"fred_oracle_",
+			"wbr",
+			"mvn",
+			"mapInvoiceStatementFile",
+			"mapISD",
+			"map",
+			"cp --remove-destination -v ",
+			"cp --remove-destination -v",
+			"	",
+			"filln",
+			"ccs",
+			"carriers",
+			"GLOD033-CN",
+			"GLOD033-CN5\n\n",
+			"0000004097"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"\\t",
+			" ",
+			"",
+			" = ",
+			"",
+			"for invoice:.*",
+			" for invoice:.*",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 593.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 285.0
+	},
+	"pinned_build_system": "",
+	"project": "blogge.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pom",
+				"FRED/pom.xml"
+			],
+			[
+				"mfip",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/MfipAutoApproveScheduler.java"
+			],
+			[
+				"db_cha",
+				"FRED/db/db_changes.sql"
+			],
+			[
+				"mhl_dp",
+				"FRED/db/mhl_dph_cross_duplicated_check.sh"
+			],
+			[
+				"dph_d",
+				"FRED/db/dph_duplicated_check.sh"
+			],
+			[
+				"mfipau",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/MfipAutoApproveScheduler.java"
+			],
+			[
+				"check_",
+				"FRED/db/check_db.sh"
+			],
+			[
+				"cp_de",
+				"FRED/scripts/cp10_deploy.sh"
+			],
+			[
+				"cp12_",
+				"FRED/scripts/cp12_deploy.sh"
+			],
+			[
+				"fredma",
+				"FRED/jboss/server/default/conf/prod/fredmail.properties"
+			],
+			[
+				"carrierdao",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/CarrierDAO.java"
+			],
+			[
+				"lock_",
+				"FRED/scripts/lock_check.sh"
+			],
+			[
+				"carrieragreementda",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/CarrierAgreementDAO.java"
+			],
+			[
+				"etofda",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/EtofDao.java"
+			],
+			[
+				"quotationlo",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/QuotationLogic.java"
+			],
+			[
+				"quotationimpl.java",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/QuotationImpl.java"
+			],
+			[
+				"moneyutils.java",
+				"FRED/modules/common/src/main/java/com/tessart/fred/common/util/MoneyUtils.java"
+			],
+			[
+				"abstractbsconverterrule.java",
+				"FRED/modules/externalInt/src/main/java/com/tessart/fred/extint/rules/AbstractBSConverterRule.java"
+			],
+			[
+				"converter-con",
+				"FRED/modules/web/src/main/webapp/WEB-INF/spring/converter-config.xml"
+			],
+			[
+				"active_sc",
+				"FRED/jboss/server/default/conf/active_schedulers.cp12.properties"
+			],
+			[
+				"logic.pr",
+				"FRED/jboss/server/default/conf/logic.properties"
+			],
+			[
+				"appres",
+				"FRED/modules/web/src/main/webapp/WEB-INF/classes/AppRes.properties"
+			],
+			[
+				"result.jsp",
+				"FRED/modules/web/src/main/webapp/pages/PerformanceCheck/result.jsp"
+			],
+			[
+				"bsda",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/bs/BsDAO.java"
+			],
+			[
+				"bashh_",
+				"Documents/bash_cheatsheet"
+			],
+			[
+				"logic.p",
+				"FRED/jboss/server/default/conf/logic.properties"
+			],
+			[
+				"perm",
+				"utils/practise/permutations.rb"
+			],
+			[
+				"back",
+				"utils/backup_work.sh"
+			],
+			[
+				"scaf.jav",
+				"FRED/modules/common/src/com/tessart/fred/common/objects/Scaf.java"
+			],
+			[
+				"create.sc",
+				"FRED/db/Create.SCAF.sql"
+			],
+			[
+				"scaf.",
+				"FRED/modules/common/src/main/java/com/tessart/fred/common/objects/Scaf.java"
+			],
+			[
+				"scafda",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/dao/ScafDAO.java"
+			],
+			[
+				"create.sca",
+				"FRED/db/Create.SCAF.sql"
+			],
+			[
+				"ruby",
+				"Documents/ruby_cheatsheet.txt"
+			],
+			[
+				"processingqueue",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/processing/ProcessingQueue.java"
+			],
+			[
+				"ruby_",
+				"Documents/ruby_cheatsheet.txt"
+			],
+			[
+				"create.or",
+				"FRED/db/Create.Order.sql"
+			],
+			[
+				"etofsea",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/om/EtofSearch.java"
+			],
+			[
+				"deploy",
+				"FRED/deploy_prod.sh"
+			],
+			[
+				"finalinvoiceproce",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/FinalInvoiceProcessing.java"
+			],
+			[
+				"deploy_p",
+				"FRED/deploy_prod.sh"
+			],
+			[
+				"invoicemana",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/InvoiceManagementImpl.java"
+			],
+			[
+				"repository_re",
+				"FRED/modules/ear/src/main/resources/ojb_jboss/repository_references.xml"
+			],
+			[
+				"create.order",
+				"FRED/db/Create.Order.sql"
+			],
+			[
+				"create.isd",
+				"FRED/db/Create.ISDR.sql"
+			],
+			[
+				"spl",
+				"Documents/splunk/splunk_cheatsheet"
+			],
+			[
+				"quotationlogic.java",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/QuotationLogic.java"
+			],
+			[
+				"splun",
+				"Documents/splunk/splunk_cheatsheet"
+			],
+			[
+				"splunk",
+				"Documents/splunk_cheatsheet"
+			],
+			[
+				"abstractetof",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/AbstractEtof.java"
+			],
+			[
+				"frvcha",
+				"FRED/src/main/groovy/etofprocessing/frv/FrvChargWeightImpl.groovy"
+			],
+			[
+				"dphcha",
+				"FRED/src/main/groovy/etofprocessing/dph/DphChargWeightImpl.groovy"
+			],
+			[
+				"quotationlogi",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/ejb/impl/QuotationLogic.java"
+			],
+			[
+				"unix",
+				"Documents/unix_permission_matrix"
+			],
+			[
+				"bash",
+				"Documents/bash_cheatsheet"
+			],
+			[
+				"po",
+				"FRED/pom.xml"
+			],
+			[
+				"secu",
+				"FRED/jboss/server/default/conf/security.properties"
+			],
+			[
+				"secut",
+				"FRED/modules/web/src/main/webapp/WEB-INF/tlds/security.tld"
+			],
+			[
+				"hubpercarrier",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/rm/HUBPerCarrierAction.java"
+			],
+			[
+				"repository_refe",
+				"FRED/modules/ear/src/main/resources/ojb_jboss/repository_references.xml"
+			],
+			[
+				"fred_cp",
+				"FRED/scripts/kiev/fred_data_to_fred_cp_ops_rsync.sh"
+			],
+			[
+				"create_fred",
+				"FRED/scripts/kiev/create_fred_data_folders.sh"
+			],
+			[
+				"dph_daily_check.sh",
+				"FRED/db/dph_daily_check.sh"
+			],
+			[
+				"dph_dail",
+				"FRED/db/dph_daily_check.sh"
+			],
+			[
+				"bc_dupl",
+				"FRED/db/bc_duplicated_check.sh"
+			],
+			[
+				"bc_du",
+				"FRED/db/bc_duplicated_check.sh"
+			],
+			[
+				"build_pr",
+				"FRED/build_prod.sh"
+			],
+			[
+				"build",
+				"FRED/build_prod.sh"
+			],
+			[
+				"logic.prop",
+				"FRED/jboss/server/default/conf/logic.properties"
+			],
+			[
+				"sched",
+				"FRED/modules/web/src/main/webapp/WEB-INF/spring/scheduler-config.xml"
+			],
+			[
+				"db_ch",
+				"FRED/db/db_changes.sql"
+			],
+			[
+				"fredmail",
+				"FRED/jboss/server/default/conf/prod/fredmail.properties"
+			],
+			[
+				"invoiceextracost.java",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/InvoiceExtraCost.java"
+			],
+			[
+				"struts",
+				"FRED/modules/web/src/main/webapp/WEB-INF/struts-config.xml"
+			],
+			[
+				"invoiceextracostbean",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/inv/InvoiceExtraCostBean.java"
+			],
+			[
+				"create.pro",
+				"FRED/db/dba/Create.Procedure.sql"
+			],
+			[
+				"om.etof.match.jsp",
+				"FRED/modules/web/src/main/webapp/pages/Order/om.Etof.Match.jsp"
+			],
+			[
+				"deplo",
+				"FRED/deploy_prod.sh"
+			],
+			[
+				"db_",
+				"FRED/db/db_changes.sql"
+			],
+			[
+				"invoicesenderemails",
+				"FRED/src/main/groovy/fi/InvoiceSenderEmailsImpl.groovy"
+			],
+			[
+				"issuemailimpl",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/IssueMailImpl.java"
+			],
+			[
+				"fiapproveimpl",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/FIApproveImpl.java"
+			],
+			[
+				"issuefinalinvoiceapproveletterma",
+				"FRED/modules/common/src/main/java/com/tessart/fred/common/objects/mail/IssueFinalInvoiceApproveLetterMail.java"
+			],
+			[
+				"issuefina",
+				"FRED/modules/common/src/main/java/com/tessart/fred/common/objects/containers/IssueFinalInvoiceApproveLetter.java"
+			],
+			[
+				"wofieldsdependencies.java",
+				"FRED/modules/web/src/main/java/com/controlpay/fred2/spring/controllers/WOFieldsDependencies.java"
+			],
+			[
+				"repository_",
+				"FRED/modules/ear/src/main/resources/ojb_jboss/repository_references.xml"
+			],
+			[
+				"ojb",
+				"FRED/testdata/OJB.properties"
+			],
+			[
+				"wofieldsdependencies",
+				"FRED/modules/common/src/main/java/com/tessart/fred/common/objects/WOFieldsDependenciesBean.java"
+			],
+			[
+				"crea",
+				"FRED/db/Create.Order.sql"
+			],
+			[
+				"archiv",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/processing/IsdArchivingProcess.java"
+			],
+			[
+				"sta",
+				"Documents/statuses"
+			],
+			[
+				"ccsraw",
+				"FRED/db/CCSRawData.sql"
+			],
+			[
+				"splu",
+				"Documents/splunk_cheatsheet"
+			],
+			[
+				"logic.",
+				"FRED/jboss/server/default/conf/logic.properties"
+			],
+			[
+				"fred_qa",
+				"FRED/scripts/fred_qa_deploy.sh"
+			],
+			[
+				"deply",
+				"FRED/ant/deploy.sh"
+			],
+			[
+				"bcda",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/bc/BcDAO.java"
+			],
+			[
+				"bc_int",
+				"FRED/jboss/server/default/conf/bc_interface.properties"
+			],
+			[
+				"deploy.sh",
+				"FRED/ant/deploy.sh"
+			],
+			[
+				"cp10",
+				"FRED/scripts/cp10_deploy.sh"
+			],
+			[
+				"fredupda",
+				"FRED/scripts/fredupdate.sh"
+			],
+			[
+				"cpx_fre",
+				"FRED/scripts/cpx_fred_update.sh"
+			],
+			[
+				"cpx_",
+				"FRED/scripts/cpx_update.sh"
+			],
+			[
+				"plt_",
+				"FRED/db/plt_duplicated_check.sh"
+			],
+			[
+				"mhl_dup",
+				"FRED/db/mhl_duplicated_check.sh"
+			],
+			[
+				"p",
+				"FRED/pom.xml"
+			],
+			[
+				"axl_sent",
+				"FRED/scripts/axalta_send_ap_data.sh"
+			],
+			[
+				"sagisdpro",
+				"FRED/modules/ejb/src/main/java/com/tessart/fred/shippers/sag/SagIsdProcessor.java"
+			],
+			[
+				"isdoc",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/processing/IsdDocumentProcess.java"
+			],
+			[
+				"axa",
+				"FRED/scripts/axalta_send_ap_data.sh"
+			],
+			[
+				"fred_ccs_send_ap_files.sh",
+				"FRED/scripts/fred_ccs_send_ap_files.sh"
+			],
+			[
+				"ccscon",
+				"FRED/jboss/server/default/conf/groovy/consolidation/CcsConsolidationFieldsImpl.groovy"
+			],
+			[
+				"dphapf",
+				"FRED/modules/web/src/main/java/com/tessart/fred/webgui/schedulers/DphAPFilePN1Listener.java"
+			],
+			[
+				"depl",
+				"deploy_mvn.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 476.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 493.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
